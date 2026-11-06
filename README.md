@@ -53,7 +53,7 @@ print(cm)
 ```
 
 ## Output:
-<img width="1218" height="658" alt="image" src="https://github.com/user-attachments/assets/1ace6302-540f-4719-bb11-31d30baa9aa4" />
+<img width="1274" height="654" alt="image" src="https://github.com/user-attachments/assets/352484c9-b2ff-4882-93cb-98170d920b27" />
 
 
 
